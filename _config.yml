@@ -1,0 +1,21 @@
+# Site settings
+title: Growing Up with Adrianne
+header-img: img/home-bg.png
+email: adrianne.galvez@gmail.com
+copyright_name: adrianne29
+description: > # this means to ignore newlines until "baseurl:"
+  A daily guide into what #adulting really is and all its struggles
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: AdrianneGalvez
+github_username:  adrianne29
+learn_profile: adrianne29
+email_username: adrianne.galvez@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
