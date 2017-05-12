@@ -1,14 +1,14 @@
 # Site settings
-title: Growing Up with Adrianne
+title: Adrianne
 header-img: img/home-bg.png
 email: adrianne.galvez@gmail.com
-copyright_name: adrianne29
+copyright_name: ADRIANNE29
 description: > # this means to ignore newlines until "baseurl:"
-  A daily guide into what #adulting really is and all its struggles
+  Always Be Coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: AdrianneGalvez
-github_username:  adrianne29
-learn_profile: adrianne29
+github_username:  ADRIANNE29
+learn_profile: ADRIANNE29
 email_username: adrianne.galvez@gmail.com
 
 # Build settings
